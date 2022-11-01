@@ -1,0 +1,4 @@
+variables:
+- team: camayoorg1
+- admin-user: camayo-admin
+- manager-user: camayo
